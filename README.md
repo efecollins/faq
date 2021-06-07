@@ -14,7 +14,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -35,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution to Challenge](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution to Challenge](https://www.frontendmentor.io/solutions/faq-accordion-using-sass-Au4OvrA7Q)
+- Live Site URL: [Live Site](https://efecollins.github.io/faq/dist/)
 
 ## My process
 
@@ -69,8 +68,5 @@ There are a lot of things I have learnt now. Some of them are;
 ## Author
 
 - Website - [Efosa Collins Evbowe](https://efecollins.github.io/new-pweb/dist)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
+- Frontend Mentor - [efecollins](https://www.frontendmentor.io/profile/efecollins)
+- Twitter - [EfeCollins7](https://twitter.com/EfeCollins7)
