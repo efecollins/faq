@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+//Text
+$text-primary1: hsl(238, 29%, 16%);
+$text-primary2: hsl(14, 88%, 65%);
+
+$text-neutral1: hsl(237, 12%, 33%);
+$text-neutral2: hsl(240, 6%, 50%);
+
+//Gradient
+$gradient1: hsl(273, 75%, 66%);
+$gradient2: hsl(240, 73%, 65%);
+
+//Divider
+$divider: hsl(240, 5%, 91%);
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: linear-gradient($gradient1, $gradient2);
+    background-attachment: fixed;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+}
